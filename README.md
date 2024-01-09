@@ -1,1 +1,1 @@
-# Peach-Party
+# Peach Party Game
